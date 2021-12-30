@@ -1,0 +1,461 @@
+@media (max-width:1399px) {
+    .banner-heading h1 {
+        font-size: 50px;
+    }
+
+    .single-service {
+        padding: 44px 40px 57px;
+    }
+
+    .footer-area {
+        padding: 70px 0 100px;
+    }
+}
+
+@media (max-width:1199px) {
+    .banner-area {
+        min-height: 600px;
+    }
+
+    .banner-heading h1 {
+        font-size: 42px;
+    }
+
+    .single-service {
+        padding: 30px 15px 40px;
+    }
+
+    .service-area .service-head {
+        padding-bottom: 30px;
+    }
+
+    .single-three-box {
+        padding: 57px 20px 57px;
+    }
+
+    .member-area .member-area-content p {
+        padding-right: 0;
+    }
+
+    .member-area .member-social-links {
+        padding-top: 30px;
+    }
+
+    .progress-area {
+        padding-top: 170px;
+    }
+
+    .manager-area {
+        min-height: 450px;
+        margin-top: 70px;
+    }
+
+    .fea-area .single-fea-cont p {
+        padding-right: 0;
+    }
+
+    .tab-area {
+        padding-bottom: 100px;
+    }
+
+    .gallery-area {
+        padding: 100px 0;
+    }
+
+    .single-pricing-box {
+        padding-top: 40px;
+    }
+
+    .pricing-plan {
+        padding-top: 30px;
+    }
+
+    .pricing-area,
+    .counter-area {
+        padding: 110px 0;
+    }
+}
+
+@media (max-width:991px) {
+    .service-area {
+        padding-top: 70px;
+    }
+
+    .play-video {
+        min-height: 400px;
+        ;
+    }
+
+    .video__play__btn {
+        width: 115px;
+        height: 115px;
+        font-size: 30px;
+    }
+
+    .single-three-box {
+        padding: 25px 20px 30px;
+    }
+
+    .three-box-head {
+        padding-bottom: 20px;
+    }
+
+    .three-box-para {
+        padding-top: 20px;
+    }
+
+    .three-box-area {
+        padding: 80px 0;
+    }
+
+    .member-area-content {
+        padding-bottom: 30px;
+    }
+
+    .member-area .member-social-links {
+        padding-top: 15px;
+    }
+
+    .skill-name h2 {
+        padding-bottom: 0px;
+    }
+
+    .single-progress {
+        padding-bottom: 20px;
+    }
+
+    .single-tab-cont h3 {
+        font-size: 24px;
+    }
+
+    .tab-para {
+        padding-top: 20px;
+    }
+
+    .gallery-area {
+        padding: 70px 0;
+    }
+
+    .test-area {
+        padding-top: 80px;
+        padding-bottom: 140px;
+    }
+
+    .client-main-sec {
+        width: 100%;
+    }
+
+    .single-pricing-box {
+        margin-bottom: 30px;
+    }
+
+    .pricing-area,
+    .counter-area {
+        padding: 85px 0 55px;
+    }
+
+    .single-post {
+        margin-bottom: 40px;
+    }
+
+    .contact-area .section-heading h2 {
+        padding-top: 100px;
+    }
+
+    .contact-area .section-heading {
+        min-height: 350px;
+    }
+
+    .form-part {
+        margin-bottom: 40px;
+    }
+
+    .address-area {
+        padding: 50px 100px 40px;
+    }
+
+    .map-area iframe {
+        height: 400px;
+    }
+}
+
+@media (max-width:767px) {
+    .banner-area {
+        min-height: 500px;
+    }
+
+    .service-area .section-heading {
+        padding-bottom: 30px;
+    }
+
+    .section-heading h2 {
+        font-size: 35px;
+    }
+
+    .single-three-box {
+        margin-bottom: 40px;
+    }
+
+    .three-box-area {
+        padding: 80px 0 40px;
+    }
+
+    .fea-img {
+        margin-bottom: 40px;
+    }
+
+    .single-fea-cont {
+        padding-top: 15px;
+    }
+
+    .single-tab-cont {
+        padding: 40px 0;
+    }
+
+    .client-main-sec {
+        width: 100%;
+    }
+
+    .single-counter {
+        margin-bottom: 40px;
+    }
+
+    .counter-subject {
+        padding-top: 0px;
+    }
+
+    .counter-icon {
+        padding-bottom: 5px;
+    }
+}
+
+@media (max-width:575px) {
+    .test-area {
+
+        display: inherit;
+        place-content: inherit;
+    }
+
+    .client-main-sec {
+        padding-bottom: 40px;
+        padding-right: 10px;
+        padding-left: 10px;
+    }
+
+    .gallert-list {
+        width: 100%;
+    }
+
+    .tab-buttons button {
+        padding-right: 20px;
+    }
+
+    .section-heading h2 {
+        font-size: 25px;
+    }
+
+    .section-heading h3 {
+        font-size: 16px;
+    }
+
+    .service-area {
+        padding-top: 50px;
+    }
+
+    .video-area {
+        padding: 60px 0 50px;
+    }
+
+    .video-area .section-heading {
+        padding-bottom: 40px;
+    }
+
+    .play-video {
+        min-height: 300px;
+    }
+
+    .video__play__btn {
+        width: 90px;
+        height: 90px;
+        font-size: 25px;
+    }
+
+    .three-box-area {
+        padding: 60px 0 20px;
+    }
+
+    .manager-area {
+        margin-top: 30px;
+    }
+
+    .barfiller {
+        height: 20px;
+        margin-bottom: 10px;
+    }
+
+    .fea-area {
+        padding-bottom: 60px;
+    }
+
+    .tab-area {
+        padding-bottom: 60px;
+    }
+
+    .tab-buttons {
+        padding-bottom: 40px;
+    }
+
+    .single-tab-cont {
+        padding: 30px 0;
+    }
+
+    .test-area {
+        padding-top: 30px;
+        padding-bottom: 120px;
+    }
+
+    .counter-number h3 {
+        font-size: 40px;
+    }
+
+    .pricing-area,
+    .counter-area {
+        padding: 60px 0 10px;
+    }
+
+    .brands-active .owl-dots {
+        bottom: -35px;
+    }
+
+    .brand-area {
+        padding-bottom: 100px;
+    }
+
+    .brand-area .section-heading {
+        padding-bottom: 40px;
+    }
+
+    .post-area {
+        padding-bottom: 10px;
+    }
+
+    .address-area {
+        padding: 50px 35px 40px;
+    }
+
+    .footer-heading h2 {
+        font-size: 40px;
+    }
+
+    .footer-area .footer-social-link ul li a {
+        width: 45px;
+        height: 45px;
+        margin: 0 7px;
+    }
+
+    .footer-area .footer-social-link ul li a i {
+        font-size: 15px;
+    }
+
+    .footer-social-link {
+        padding-top: 15px;
+    }
+
+    .footer-area {
+        padding: 30px 0 50px;
+    }
+
+    #scrollUp {
+        right: 25px;
+        bottom: 30px;
+        height: 45px;
+        width: 45px;
+        font-size: 18px;
+    }
+
+    .contact-area {
+        padding-bottom: 70px;
+    }
+
+    .member-area {
+        padding-top: 50px;
+    }
+}
+
+@media (max-width:425px) {
+    .banner-text {
+        text-align: center;
+    }
+
+    .banner-area .banner-btn {
+        text-align: center;
+        display: inherit !important;
+        padding-top: 10px;
+    }
+
+    .banner-area .banner-btn a {
+        margin: 20px auto 0;
+    }
+
+    .member-area {
+        padding-top: 50px;
+    }
+
+    .manager-area {
+        min-height: 400px;
+    }
+
+    .fea-area {
+        padding-top: 50px;
+    }
+
+    .tab-buttons li {
+        padding-right: 0px;
+        display: block;
+    }
+
+    .tab-area .tab-img {
+        min-height: 300px;
+    }
+
+    .gallert-list ul {
+        display: inherit !important;
+    }
+
+    .gallert-list ul li {
+        margin: auto;
+    }
+
+    .gallery-area {
+        padding: 50px 0 70px;
+    }
+
+    .contact-area .form-part,
+    .contact-area .address-area {
+        padding: 30px 10px 40px;
+    }
+
+    .contact-area .form-part .contact-form textarea {
+        border-radius: 20px;
+    }
+
+    .form-heading h2 {
+        font-size: 22px;
+    }
+
+    .form-heading p {
+        font-size: 16px;
+    }
+
+    .main-address-area {
+        padding-top: 10px;
+    }
+
+    .copy-text p {
+        font-size: 16px;
+    }
+
+    .footer-area .footer-social-link ul li a {
+        margin: 0 4px;
+    }
+}
